@@ -160,10 +160,12 @@ int main() {
             break;
 
         default:
-            printf("🚨 Opção inválida! Tenta de novo com um número de 1 a 6.\n");
+            printf("🚨 Opção inválida! Tente de novo com um número de 1 a 6.\n");
             break;
     }
 
+    printf("Novo commit2");
+    
     return 0;
 }
 

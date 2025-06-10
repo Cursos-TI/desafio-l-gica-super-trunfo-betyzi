@@ -97,6 +97,8 @@ int main() {
         printf("\nTivemos um empate! 🤝\n");
     }
 
+    printf("Novo commit3");
+
     return 0;
 }
 
